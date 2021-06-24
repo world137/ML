@@ -1,0 +1,11 @@
+#import ข้อมูลที่ไม่เยอะมาก
+import pandas as pd
+import numpy as np
+import matplotlib as plt
+import seaborn as sns
+from sklearn import datasets
+iris_dataset = datasets.load_iris()
+print(iris_dataset.keys())
+print(iris_dataset['data'][0:10])
+#print(iris_dataset['target_names'])
+#print(iris_dataset['DESCR'])
