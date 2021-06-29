@@ -27,4 +27,4 @@ df3 = pd.DataFrame(data3)
 
 display(df , '\n')
 display(df2 , '\n')
-display(df3)
+display(df3) 
