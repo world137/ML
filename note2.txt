@@ -1,0 +1,14 @@
+regression
+classification
+
+boxplot
+random state
+stratify
+sampling
+
+confusion matrix
+
+accuracy
+precision
+recall
+f1 score

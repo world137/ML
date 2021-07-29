@@ -1,0 +1,15 @@
+performance matrix
+confusion matrix
+
+model == > ปรับจูน
+cross varidation แทน train test sprits
+hyperparameter
+
+logistic regression
+
+plot log curve
+
+class weight
+
+
+ีืundersampling คือ
